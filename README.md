@@ -21,9 +21,10 @@ Uma aplicação web moderna para criar e gerenciar formulários dinâmicos com l
 
 ## 🚀 Como Usar (Versão Online)
 
-### 1. Criando um Formulário
+### 1. Criando um 
 
-1. Acesse [https://formfy.vercel.app](https://formfy.vercel.app)
+
+1. Acesse [https://formfy-roan.vercel.app](https://formfy-roan.vercel.app)
 2. Clique em **"Novo Formulário"**
 3. Preencha os detalhes do formulário:
    - **Título**: Nome do seu formulário
@@ -38,11 +39,11 @@ Uma aplicação web moderna para criar e gerenciar formulários dinâmicos com l
 
 1. Na página inicial, clique no botão **Compartilhar** em qualquer formulário
 2. A URL compartilhável será copiada para sua área de transferência
-3. Compartilhe esta URL com os respondentes
+3. o link do formulário deve ser aberto no mesmo navegador pos está sendo salvo em localstorage  - mas adicionando um armazenamento externo é possível compartilhar
 
 ### 3. Respondendo um Formulário
 
-1. Acesse o formulário via URL compartilhada
+1. Acesse o formulário via URL compartilhada no mesmo navegador
 2. Opcionalmente forneça seu email para acompanhamento
 3. Responda todas as perguntas (obrigatórias marcadas com \*)
 4. Envie o formulário
